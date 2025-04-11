@@ -1,5 +1,5 @@
 # CAN-bridge
-CAN-Bus connector bridge for 3D printer stuff
+CAN-Bus bridge for 3D printer stuff
 
 ![Alt text](images/board_plus_connector.jpg)
 
