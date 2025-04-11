@@ -15,7 +15,7 @@ It's a quick fix, but it works and brings some order to the wiring.
 
 #  BOM
 
-| Number | Part |
+| Quantity | Part |
 | ------ | ---- |
 | 1 | PCB |
 | 1 | Molex Microfit 3.0 vertical receptacle 44769-0401 |
