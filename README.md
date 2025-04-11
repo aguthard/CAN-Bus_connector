@@ -1,14 +1,15 @@
-# CAN-Bus_connector
-CAN-Bus_connector for 3D printer stuff
+# CAN-bridge
+CAN-Bus connector bridge for 3D printer stuff
 
 ![Alt text](images/board_plus_connector.jpg)
 
 ![Alt text](images/connector.jpg)
 
 # Main goal
-To provide a simple way to connect two or more CAN bus motherboards (AFC-light, EBB36/42, etc.).
+To provide a simple way to connect two or more CAN bus motherboards (AFC-light, EBB36/42, etc.) in 
+3D printers and expansion devices such as boxturtle etc.
 
-It's a quick-and-dirty solution, but it's functional.
+It's a quick fix, but it works and brings some order to the wiring.
 
 
 #  BOM
